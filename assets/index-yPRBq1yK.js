@@ -1,0 +1,1 @@
+import{e as t,ao as a,g as n,t as s,u as o,i as r}from"./index-jMP9HoAR.js";const p=t({__name:"index",setup(c){const e=a("link_game_records",[]);return(_,i)=>(r(),n("div",null,s(o(e)),1))}});export{p as default};
